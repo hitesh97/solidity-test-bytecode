@@ -1,0 +1,5 @@
+git:
+    depth: 2
+
+script:
+    - ./compare.sh
